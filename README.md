@@ -28,7 +28,7 @@
     *Стек: Python, Selenium, Pytest, POM.*  
     Реализовала автотесты для формы авторизации.
     
-*   **[Тестирование REST API сервиса](ссылка_на_репозиторий)**  
+*   **[Тестирование REST API сервиса](https://github.com/selenadanilova-ux/Excursium-ui-automation)**  
     *Стек: Python, Requests, Pytest.*  
     Написала набор тестов для проверки CRUD-операций и валидации JSON-схем.
 
