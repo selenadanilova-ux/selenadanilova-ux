@@ -28,16 +28,15 @@
     *Стек: Python, Selenium, Pytest, POM.*  
     Реализовала автотесты для формы авторизации.
     
-*   **[Тестирование REST API сервиса](https://github.com/selenadanilova-ux/Excursium-ui-automation)**  
-    *Стек: Python, Requests, Pytest.*  
-    Написала набор тестов для проверки CRUD-операций и валидации JSON-схем.
+*   **[Автоматизация UI-тестирования модулей авторизации и регистрации сервиса Excursium](https://github.com/selenadanilova-ux/Excursium-ui-automation)**  
+    *Стек: Python, Selenium, Pytest, POM.*  
+    Написала набор тестов для проверки формы авторизации, регистрации и страницы фильтра экскурсий.
 
 ---
 
 ### 📫 Как со мной связаться:
 
 *   **Telegram:** [@ElenaTorgashina]
-*   **LinkedIn:** [ссылка_на_профиль]
 *   **Email:** [selenadanilova@gmail.com]
 
 ---
