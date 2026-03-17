@@ -1,16 +1,44 @@
-## Hi there 👋
+# Привет! Я Елена 👋
+### Junior QA Automation Engineer (Python)
 
-<!--
-**selenadanilova-ux/selenadanilova-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я недавно завершила обучение на курсах тестировщика-автоматизатора и сейчас активно развиваюсь в обеспечении качества ПО. Мой фокус — написание чистых, поддерживаемых автотестов на Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек технологий
+
+**Тестирование и автоматизация:**
+*   **Язык:** Python (Pytest, Unittest)
+*   **UI Automation:** Selenium WebDriver
+*   **API Testing:** Requests, Postman, Pytest
+*   **Паттерны:** Page Object Model (POM)
+*   **Отчетность:** Allure Reports
+
+**Инструменты и инфраструктура:**
+*   **Version Control:** Git & GitHub
+*   **CI/CD:** GitHub Actions
+*   **Контейнеризация:** Docker (базовые навыки)
+*   **Базы данных:** SQL (PostgreSQL/MySQL)
+
+---
+
+### 🚀 Мои учебные проекты
+
+*   **[Автоматизация тестирования формы авторизации Ростетеком](ссылка_на_репозиторий)**  
+    *Стек: Python, Selenium, Pytest, POM.*  
+    Реализовала автотесты для авторизации.
+    
+*   **[Тестирование REST API сервиса](ссылка_на_репозиторий)**  
+    *Стек: Python, Requests, Pytest.*  
+    Написала набор тестов для проверки CRUD-операций и валидации JSON-схем.
+
+---
+
+### 📫 Как со мной связаться:
+
+*   **Telegram:** [@ElenaTorgashina]
+*   **LinkedIn:** [ссылка_на_профиль]
+*   **Email:** [selenadanilova@gmail.com]
+
+---
+*«Качественный код начинается с качественных тестов!»*
